@@ -1,9 +1,9 @@
 # Uni-X
 ### SHORT DESCRIPTION
 
-###Members:
+### Members:
 
-[Ahlam Hakami](https://github.com/AhlamHakami
+[Ahlam Hakami](https://github.com/AhlamHakami)
 
 [Austin Lawson](https://github.com/azlawson)
 
