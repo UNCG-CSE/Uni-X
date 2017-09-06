@@ -1,6 +1,6 @@
 # Uni-X
 ### SHORT DESCRIPTION
-analyzing college score data
+analyzing college score data .
 
 ### Members:
 
