@@ -10,4 +10,8 @@
 *How do we start with the project:
 1. merge data from different years to one 
 2. deal with missing values
-3. find interested variables and make a correlation map
+   (delete the columns with too many missing values; otherwise replace missing value by column mean or delete the row)
+3. make graphs for data description
+4. find interested variables and make a correlation map
+5. ...
+6. ...
