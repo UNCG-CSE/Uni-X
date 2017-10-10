@@ -14,14 +14,14 @@ List of overall goals you are trying to achieve in the project, and the tasks as
 
 Achieved goals / activities:
 List the activities by date and how that relates to the goal.
-
+i just select a specific columns that relate to repayment rate, and then we can figure it out which catagories of theses columns we will work with
 
 Amount of time spent per each of the activities.
-
+3 hours
 
 Link to specific files (notebooks) which show the activity.
 
-
+https://github.com/UNCG-CSE/Uni-X/blob/master/codes/repayment_cols.ipynb
 
 
 
