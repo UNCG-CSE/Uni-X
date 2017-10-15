@@ -7,7 +7,10 @@ Team Members:
 
 
 Target goals:
-List of overall goals you are trying to achieve in the project, and the tasks assigned to you.
+List of overall goals you are trying to achieve in the project, and the tasks assigned to you:
+*merge data
+*clean data
+
 
 
 Achieved goals / activities:
