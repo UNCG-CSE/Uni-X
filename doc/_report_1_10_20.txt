@@ -23,8 +23,8 @@ Amount of time spent per each of the activities:
 1- 3 hours
 2- half hour
 Link to specific files (notebooks) which show the activity:
-https://github.com/UNCG-CSE/Uni-X/blob/master/codes/repayment_cols.ipynb
-
+1- https://github.com/UNCG-CSE/Uni-X/blob/master/codes/repayment_cols.ipynb
+2- https://github.com/UNCG-CSE/Uni-X
 Bin:
 List the activities by date and how that relates to the goal:
 
