@@ -17,11 +17,11 @@ Achieved goals / activities:
 
 Ahlam:
 List the activities by date and how that relates to the goal:
-I just select a specific columns that relate to repayment rate, and then we can figure it out which catagories of theses columns we will work with
-
+1- I just select a specific columns that relate to repayment rate, and then we can figure it out which catagories of theses columns we will work with
+2- Adding project goal and image in readme, and updated team members
 Amount of time spent per each of the activities:
-3 hours
-
+1- 3 hours
+2- half hour
 Link to specific files (notebooks) which show the activity:
 https://github.com/UNCG-CSE/Uni-X/blob/master/codes/repayment_cols.ipynb
 
