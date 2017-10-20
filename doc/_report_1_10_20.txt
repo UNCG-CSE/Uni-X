@@ -9,8 +9,7 @@ Target goals:
 List of overall goals you are trying to achieve in the project, and the tasks assigned to you:
 *merge data
 *clean data
-
-
+*descriptive analysis
 
 Achieved goals / activities:
 
@@ -31,7 +30,19 @@ Link to specific files (notebooks) which show the activity:
 Bin:
 List the activities by date and how that relates to the goal:
 
+1-Select valid explanatory variable and response variable(repayment rate by years) based on dictionry
+2-Explore valid observation for different types of repayment rate
+3-Merge and clean data and export to .csv file
+4-Develop sharable function for the whole data management process 
+5-Start descriptive analysis on repayment rate: draw histogram and compute correlation between y and x variables.
+
+
 Amount of time spent per each of the activities:
+1 - one hour
+2 - one hour
+3 - two hour
+4 - one hour
+5 - one hour
 
 Link to specific files (notebooks) which show the activity:
 https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Cleaning%20and%20Preparing.ipynb
