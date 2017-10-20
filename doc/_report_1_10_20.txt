@@ -5,7 +5,6 @@ Team Members:
 *Qi Zhang
 
 
-
 Target goals:
 List of overall goals you are trying to achieve in the project, and the tasks assigned to you:
 *merge data
@@ -40,11 +39,13 @@ https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Cleaning%20and%20Preparing.i
 
 Qi:
 List the activities by date and how that relates to the goal:
+-merged the data and deleted the rows with more than 70% missing values
 
 Amount of time spent per each of the activities:
+1hr
 
 Link to specific files (notebooks) which show the activity:
-
+https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Merging.ipynb
 
 
 
