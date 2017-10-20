@@ -7,9 +7,18 @@ Team Members:
 
 Target goals:
 List of overall goals you are trying to achieve in the project, and the tasks assigned to you:
+overall goals:
+1. What variables can affect repayment rate?
+2. Estimate repayment rate base on other variables.
+3. Predict repayment rate in coming years. 
+
+short term goals by date:
 *merge data
 *clean data
 *descriptive analysis
+
+Tasks assign to member:
+In order to get familar with the dataset and tool, all of us works on the similar thing in the stage of preparing data and descriptive analysis. We would assign the different goals for different member soon.
 
 Achieved goals / activities:
 
@@ -30,7 +39,7 @@ Link to specific files (notebooks) which show the activity:
 Bin:
 List the activities by date and how that relates to the goal:
 
-1-Select valid explanatory variable and response variable(repayment rate by years) based on dictionry
+1-Select valid explanatory variable(exclude any variable on repayment rate) and response variable(repayment rate by years) based on dictionry
 2-Explore valid observation for different types of repayment rate
 3-Merge and clean data and export to .csv file
 4-Develop sharable function for the whole data management process 
@@ -38,15 +47,17 @@ List the activities by date and how that relates to the goal:
 
 
 Amount of time spent per each of the activities:
-1 - one hour
-2 - one hour
-3 - two hour
-4 - one hour
-5 - one hour
+1 - 2 hour
+2 - 2 hour
+3 - 1.5 hour
+4 - 2 hour
+5 - 2 hour
 
 Link to specific files (notebooks) which show the activity:
-https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Cleaning%20and%20Preparing.ipynb
 
+1-3: https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Cleaning%20and%20Preparing.ipynb
+4: https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Utility.ipynb
+5:https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Descriptive_Analysis.ipynb
 
 Qi:
 List the activities by date and how that relates to the goal:
