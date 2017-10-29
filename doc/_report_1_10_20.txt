@@ -63,13 +63,15 @@ Link to specific files (notebooks) which show the activity:
 
 Qi:
 List the activities by date and how that relates to the goal:
--merged the data and deleted the rows with more than 70% missing values
+1. merged the data and deleted the rows with more than 70% missing values
+2. boxplots for repayment 
 
 Amount of time spent per each of the activities:
-1hr
+5hr
 
 Link to specific files (notebooks) which show the activity:
-https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Merging.ipynb
+1. https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Merging.ipynb
+2. https://github.com/UNCG-CSE/Uni-X/blob/master/codes/plots%20for%20repayment.ipynb
 
 
 
