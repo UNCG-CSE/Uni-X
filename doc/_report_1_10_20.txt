@@ -67,7 +67,7 @@ List the activities by date and how that relates to the goal:
 2. boxplots for repayment 
 
 Amount of time spent per each of the activities:
-5hr
+7hr
 
 Link to specific files (notebooks) which show the activity:
 1. https://github.com/UNCG-CSE/Uni-X/blob/master/codes/Merging.ipynb
