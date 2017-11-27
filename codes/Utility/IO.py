@@ -92,4 +92,12 @@ def get_rpyrt_by_class(y=1):
     pro=0.3
     sc_sub=sc_sub.dropna(axis=0,how='all')
     sc_sub=sc_sub.dropna(axis=1,thresh=np.ceil(sc_sub.shape[1]*(1-pro)))
+    sc_sub=sc_sub.drop('SEPAR_DT_MDN',axis=1)
+    sc_sub=sc_sub.replace(to_replace='PrivacySuppressed',value=np.NaN)
     return sc_sub
+
+def prescreening_by_class(df, y=1, nobs=500):
+    yname='RPY_'+ str(y) +'YR_RT'
+    cor=df.corr()
+    corr=abs(cor).sort_values([yname],ascending=0)[yname]
+    return corr.index[1:(nobs+1)]
