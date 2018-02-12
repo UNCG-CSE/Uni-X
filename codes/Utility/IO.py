@@ -58,6 +58,7 @@ def clean_and_prepare():
     
     # Pick x and y variables
     scx_merge=sc_merge.loc[:,dic['VARIABLE NAME'][dic["dev-category"]!="repayment"]]
+    scx_merge=scx_merge.loc[:,dic['VARIABLE NAME'][dic["dev-category"]!="root"]]
     scy_merge=sc_merge.loc[:,['RPY_1YR_RT','RPY_3YR_RT','RPY_5YR_RT', 'RPY_7YR_RT'] ]
     
     # Combine x and y variables
